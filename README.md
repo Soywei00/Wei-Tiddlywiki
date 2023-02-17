@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Wei-Tiddlywiki
 这是我的 Tiddly-wiki
 =======
+=======
+>>>>>>> dc19411 (Commit with Git-Sync-JS)
 # Tiddlywiki-NodeJS-Github-Template
 
 Wiki template for [TiddlyGit-Desktop](https://github.com/tiddly-gittly/TiddlyGit-Desktop), an App that can generate template wiki on one-click.
@@ -33,4 +36,7 @@ Automatically.
 ## Credit
 
 Scripts are inspired by [DiamondYuan/wiki](https://github.com/DiamondYuan/wiki)
+<<<<<<< HEAD
 >>>>>>> 3ea6cc2 (Commit with Git-Sync-JS)
+=======
+>>>>>>> dc19411 (Commit with Git-Sync-JS)
